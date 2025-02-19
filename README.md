@@ -7,6 +7,8 @@ Welcome to my Github! My name is Pandu Cakrawala Darmawan, let's connect on link
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=panducdrmwn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+I'd love to collaborate with you, dont hesitate to message me on panducd.09@gmail.com! 🤝
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 panducdrmwn/panducdrmwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
