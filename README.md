@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my Github! My name is Pandu Cakrawala Darmawan, let's connect on linkedin [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pandu-cakrawala-darmawan/) 
+Welcome to my Github! My name is Pandu Cakrawala Darmawan, let's connect on linkedin [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandu-cakrawala-darmawan/) 
 
 
 # 💻 Tech Stack:
