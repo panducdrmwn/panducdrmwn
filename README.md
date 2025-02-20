@@ -13,9 +13,9 @@ Welcome to my Github! My name is Pandu Cakrawala Darmawan, let's connect on link
 ||![Gatsby JS](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)|![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)|||||||
 ||![Node JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)||||||||
 ||![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)||||||||
-||![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)||||||||
-||![Hardhat](https://img.shields.io/badge/-Hardhat-%2300f.svg?style=for-the-badge&logo=harhat)||||||||
-||![Ethers JS](https://img.shields.io/badge/-Ethers.js-%23FFFC00.svg?style=for-the-badge&logo=ethers)||||||||
+||||||||||
+||||||||||
+||||||||||
 ||![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)||||||||
 ---
 
