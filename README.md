@@ -14,6 +14,8 @@ Welcome to my Github! My name is Pandu Cakrawala Darmawan, let's connect on link
 ||![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)||||||||
 ||![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)||||||||
 ||![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)|||||
+||![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ||||
+||![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)||||||
 ---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=panducdrmwn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
